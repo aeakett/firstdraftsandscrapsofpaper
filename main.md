@@ -23,7 +23,7 @@ It might seem that depositing important documents into a library or museum would
  -do libraries/museums value?
 
 ## Conclusion
-So, now that I've ranted on about all the ways stuff is being destroyed and sequestered away... what next? 
+So here's how I see the current situation: Folk knowledge is litterally dying. Unique items are being locked away in private collections. Rare items are practically inaccessible to casual researchers. Content creators could be doing more to provide access to their material.
 
  -call for civil disobedience
  -the pirates may save us.
