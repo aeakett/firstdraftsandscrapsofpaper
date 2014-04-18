@@ -28,7 +28,7 @@ So here's how I see the current situation:
 * Unique items are being locked away in private collections.  
 * Rare items are practically inaccessible to casual researchers.  
 * Content creators could be doing more to provide access to their material.  
-So what can we do? Save what you can. If you're a gamer you probably have physical and/or digital notes
+So what can we do? Save what you can. Donate your game documents to PlaGMaDA. If you have something unique that you didn't create make sure that it's physical condition is well maintained. Additionally, make digital copies. Scans are great, but readable high resolution photographs are good enough. Make multiple copies on stable media and store them in different places. Distribute them amongst like-minded individuals. Accept others' files and back them up like your own.
  -call for civil disobedience
  -the pirates may save us.
  -save what you have
