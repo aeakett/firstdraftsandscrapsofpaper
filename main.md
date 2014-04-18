@@ -22,7 +22,9 @@ The single greatest threat to our sub-cultural heritage is copyright. There is o
 It might seem that depositing important documents into a library or museum would be the answer. While that certainly is a step in the right direction it is somewhat problematic. The first thing to consider is where such items might be deposited. A few institutions come immediately to mind. The Toronto Public Library's Merril Collection already has a fairly large collection of common RPG material. Bowling Green State University Library's Popular Culture Collection already holds three issues of the Domesday Book. However, it's likely safe to say that neither of these collections are comprehensive. Indeed, I'd be surprised to hear of any institution that holds a collection nearly as complete as some private collections. The most obvious place would be the Strong National Museum of Play. Indeed, this is where PlaGMaDA deposits their physical artifacts and is who Peterson has semi-permanently loaned the Dalluhn manuscript to.
  -do libraries/museums value?
 
-## conclusion
+## Conclusion
+So, now that I've ranted on about all the ways stuff is being destroyed and sequestered away... what next? 
+
  -call for civil disobedience
  -the pirates may save us.
  -save what you have
@@ -31,3 +33,29 @@ It might seem that depositing important documents into a library or museum would
   -distribute amongst like-minded individuals
   -multiple copies on stable media stored safely/remotely
  -are your originals stored safely?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
