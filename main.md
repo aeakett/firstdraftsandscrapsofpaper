@@ -16,7 +16,7 @@ The single greatest threat to our sub-cultural heritage is copyright. There is o
  -archive.org takedown of magazines
 
 # The Role of Traditional Institutions
- -It Belongs in a Museum!
+![That belongs in a museum!](./that_belongs_in_a_museum.png)
  -a few special collections
   -toronto
   -whoever holds the domesday book issues
