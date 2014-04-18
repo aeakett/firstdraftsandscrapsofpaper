@@ -23,8 +23,12 @@ It might seem that depositing important documents into a library or museum would
  -do libraries/museums value?
 
 ## Conclusion
-So here's how I see the current situation: Folk knowledge is litterally dying. Unique items are being locked away in private collections. Rare items are practically inaccessible to casual researchers. Content creators could be doing more to provide access to their material.
-
+So here's how I see the current situation:  
+* Folk knowledge is litterally dying.  
+* Unique items are being locked away in private collections.  
+* Rare items are practically inaccessible to casual researchers.  
+* Content creators could be doing more to provide access to their material.  
+So what can we do? Save what you can. If you're a gamer you probably have physical and/or digital notes
  -call for civil disobedience
  -the pirates may save us.
  -save what you have
