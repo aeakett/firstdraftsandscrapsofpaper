@@ -28,15 +28,8 @@ So here's how I see the current situation:
 * Unique items are being locked away in private collections.  
 * Rare items are practically inaccessible to casual researchers.  
 * Content creators could be doing more to provide access to their material.  
-So what can we do? Save what you can. Donate your game documents to PlaGMaDA. If you have something unique that you didn't create make sure that it's physical condition is well maintained. Additionally, make digital copies. Scans are great, but readable high resolution photographs are good enough. Make multiple copies on stable media and store them in different places. Distribute them amongst like-minded individuals. Accept others' files and back them up like your own.
- -call for civil disobedience
- -the pirates may save us.
- -save what you have
-  -scans are great, but reasonbly hi-res photos will do
-  -don't trust cloud services
-  -distribute amongst like-minded individuals
-  -multiple copies on stable media stored safely/remotely
- -are your originals stored safely?
+So what can we do? Save what you can. Donate your game documents to PlaGMaDA. Ensure that your material will be properly disposed of after your death. If you have something unique that you didn't create make sure that it's physical condition is well maintained. Additionally, make digital copies. Scans are great, but readable high resolution photographs are good enough. Make multiple copies on stable media and store them in different places. Distribute them amongst like-minded individuals. Accept others' files and back them up like your own.  
+Yes, I am essentially advocating piracy. I'm not suggesting the wholesale copying and distribution of readily available material (people have to eat). Think of it as an act of civil disobedience. The future cultural value of that seemingly insignifigant thing that you have can't be known, and it's your job to make sure that sombody can find that signifigance in the future.
 
 
 
