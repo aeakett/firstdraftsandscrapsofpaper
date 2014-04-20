@@ -3,7 +3,7 @@ Author: Andrew Eakett
 Date: 2014-04-18
 
 ## Introduction
-The RPG hobby is a young one. While wargames and bespoke examples existed earlier, it's probably safe to say that it was popularly born with the initial [release of D&D 40 years ago][dnd40birth]. Perhaps because of this, popular scholarship is just beginning. Works by [Peterson][patw] and [Ewalt][odam], as well as two upcoming documentaries on the history of Dungeons & Dragons are hopefully only the beginning of of an attempt to increase our understanding of the games that have been so important to so many. Unfortunately the primary progenitors of our hobby are recently deceased, and many of the people that were present at the dawn of RPGs are advancing in age. And while a great deal of popular published material is generally available, that availability is generally proportional to its initial popularity. Some very early and ephemeral material is quite hard to obtain. The Domesday book for example, was a... (atk add short history here). Libraries hold a few issues, and while others are extant, they are privately held  and essentially inaccessible. To my knowledge, none are widely accessible. 
+The RPG hobby is a young one. While wargames and bespoke examples existed earlier, it's probably safe to say that it was popularly born with the initial [release of D&D 40 years ago][dnd40birth]. Perhaps because of this, popular scholarship is just beginning. Works by [Peterson][patw] and [Ewalt][odam], as well as two upcoming documentaries on the history of Dungeons & Dragons are hopefully only the beginning of of an attempt to increase our understanding of the games that have been so important to so many. Unfortunately the primary progenitors of our hobby are recently deceased, and many of the people that were present at the dawn of RPGs are advancing in age. And while a great deal of popular published material is generally available, that availability is generally proportional to its initial popularity. Some very early and ephemeral material is quite hard to obtain. The [Domesday][domesday] book for example, was a... (atk add short history here). Libraries hold a few issues, and while others are extant, they are privately held  and essentially inaccessible. To my knowledge, none are widely accessible. All of these factors lead to a situation where some of the more obscure historical elements of RPG history are disappearing or inaccessible to casual researchers.
 
 ## Perceived Value
 Early on, this was just the hobby of some crazy guys in the mid-west. It's unlikely that anybody thought that their work would be important. Conversely, it's likely that all kinds of notes and material that the emergent scholarly community would love to see was disposed of. This attitude is still prevalent today. One particularly startling example is the near loss of a storage locker filled with some of Dave Arneson's notes, models, and various printed material. Thankfully, one man has taken it upon himself to start [PlaGMaDA][plagmada], an organization that seeks to "preserve, present, and interpret play generated cultural artifacts, namely manuscripts and drawings created to communicate a shared imaginative space." In my opinion, this is a wonderful start. After all, could a young James Jacobs have known that his homebrew campaign would later serve as a basis for a major campaign setting?
@@ -31,14 +31,14 @@ Here's how I see the current situation:
 So what can we do? Save what you can. Donate your game documents to [PlaGMaDA][plagmada]. Ensure that your material will be properly disposed of after your death. If you have something unique that you didn't create make sure that it's physical condition is well maintained. Additionally, make digital copies. Scans are great, but readable high resolution photographs are good enough. Make multiple copies on stable media and store them in different places. Distribute them amongst like-minded individuals. Accept others' files and back them up like your own.  
 Yes, I am essentially advocating piracy. I'm not suggesting the wholesale copying and distribution of readily available material (people have to eat). Think of it as an act of civil disobedience. The future cultural value of that seemingly insignificant thing that you have can't be known, and it's your job to make sure that somebody can find that significance in the future.
 
-[^gygaxfire] Ernie Gygax fire
-[^scanningandselling] there was a story about a collector scanning his rare items for his own reference before selling them off
+[^gygaxfire]: Ernie Gygax fire
+[^scanningandselling]: there was a story about a collector scanning his rare items for his own reference before selling them off
 
 [plagmada]: http://plagmada.org
 [patw]: http://www.amazon.com/gp/product/0615642047/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0615642047&linkCode=as2&tag=pathfwiki-20
 [odam]: http://www.amazon.com/gp/product/B008J4CHX2/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B008J4CHX2&linkCode=as2&tag=pathfwiki-20
 [dnd40birth]: http://playingattheworld.blogspot.ca/2013/12/when-dungeons-dragons-turns-40.html#more
-
+[domesday]: https://www.acaeum.com/library/domesday.html
 
 
 
