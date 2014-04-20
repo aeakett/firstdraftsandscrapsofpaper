@@ -17,9 +17,7 @@ The single greatest threat to our sub-cultural heritage is copyright. There is o
 
 ## The Role of Traditional Institutions
 ![That belongs in a museum!](./that_belongs_in_a_museum.png)
-Donating rare and unique items to a museum or library would seem to be 
--lib/mus seem to be the answer
-Indeed there are plenty of rare items in several different collections, though they tend to be part of larger, more general collections (ususally general popular culture collections). This could prove problematic in the long run as institutional collections policies may dictate deaccessioning materials.[^newspapershreddingfn]
+Donating rare and unique items to a museum or library could be a sollution. Indeed there are plenty of rare items in several different collections, though they tend to be part of larger, more general collections (ususally general popular culture collections). This could prove problematic in the long run as institutional collections policies may dictate deaccessioning materials.[^newspapershreddingfn]
 
 -[Strong National Museum of Play][thestrong] seems to be the best bet currently
 -certainly best bet for preservation, but casual scholarship is still hampered by centralization.
