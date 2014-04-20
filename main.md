@@ -19,11 +19,10 @@ The single greatest threat to our sub-cultural heritage is copyright. There is o
 ![That belongs in a museum!](./that_belongs_in_a_museum.png)
 Donating rare and unique items to a museum or library could be a sollution. Indeed there are plenty of rare items in several different collections, though they tend to be part of larger, more general collections (ususally general popular culture collections). This could prove problematic in the long run as institutional collections policies may dictate deaccessioning materials.[^newspapershreddingfn]
 
--[Strong National Museum of Play][thestrong] seems to be the best bet currently
+The [Strong National Museum of Play's][thestrong] focus on games and play make it the most likely home for important documents.[^strongcredentials]
 -certainly best bet for preservation, but casual scholarship is still hampered by centralization.
 
 It might seem that depositing important documents into a library or museum would be the answer. While that certainly is a step in the right direction it is somewhat problematic. The first thing to consider is where such items might be deposited. A few institutions come immediately to mind. The Toronto Public Library's Merril Collection already has a fairly large collection of common RPG material. Bowling Green State University Library's Popular Culture Collection already holds three issues of the Domesday Book. However, it's likely safe to say that neither of these collections are comprehensive. Indeed, I'd be surprised to hear of any institution that holds a collection nearly as complete as some private collections.
--Indeed, this is where PlaGMaDA deposits their physical artifacts and is who Peterson has semi-permanently loaned the Dalluhn manuscript to.
 
 ## Conclusion
 Here's how I see the current situation:  
@@ -37,6 +36,7 @@ Yes, I am essentially advocating piracy. I'm not suggesting the wholesale copyin
 [^gygaxfirefn]: Take the [Ernie Gygax fire][gygaxfire] for example. While certainly a terrible event from a human perspective, historically speaking the loss is nothing less than tragic.
 [^scanningandsellingfn]: See [this thread on the Acaeum][acaeum1] for an example of how some collectors feel about this practice.
 [^newspapershreddingfn]: New York State Library was recently in the news when it [unceremoniously deacessioned a large collection of 19th-century newspapers][newspapershredding].
+[^strongcredentials]: Indeed, this is where PlaGMaDA deposits their physical artifacts and is who Peterson has semi-permanently loaned the Dalluhn manuscript to atkatkatk.
 
 [acaeum1]: https://www.acaeum.com/forum/viewtopic.php?cache=1&f=1&t=1459&p=197677&hilit=scanning#p197677
 [plagmada]: http://plagmada.org
