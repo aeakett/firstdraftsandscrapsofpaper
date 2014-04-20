@@ -2,6 +2,8 @@ Title: First Drafts & Scraps of Paper - How collectors, copyright and the epheme
 Author: Andrew Eakett
 Date: 2014-04-18
 
+# First Drafts & Scraps of Paper - How collectors, copyright, and the ephemeral nature of our hobby are contributing to the loss of our sub-cultural heritage.
+
 ## Introduction
 The RPG hobby is a young one. While wargames and bespoke examples existed earlier, it's probably safe to say that it was popularly born with the initial [release of D&D 40 years ago][dnd40birth]. Perhaps because of this, popular scholarship is just beginning. Works by [Peterson][patw] and [Ewalt][odam], as well as two upcoming documentaries on the history of Dungeons & Dragons are hopefully only the beginning of of an attempt to increase our understanding of the games that have been so important to so many. Unfortunately the primary progenitors of our hobby are recently deceased, and many of the people that were present at the dawn of RPGs are advancing in age. And while a great deal of popular published material is generally available, that availability is generally proportional to its initial popularity. Some very early and ephemeral material is quite hard to obtain. Libraries [hold a few issues][bgsucat] of the [Domesday Book][domesday] for example, and while [others are extant][domesdayfound], they are privately held and essentially inaccessible. To my knowledge, none are widely accessible. All of these factors lead to a situation where some of the more obscure historical elements of RPG history are disappearing or inaccessible to casual researchers.
 
@@ -13,11 +15,10 @@ Collectors are both one of the great heroes, and greatest threats in the current
 
 ## Copyright
 The single greatest threat to our sub-cultural heritage is copyright. There is often a great reverence for the creators of the games we play, and it's fairly well known that nobody has ever gotten rich designing or publishing RPGs. Because of those facts, people with access to rare items are often overly (in my opinion) hesitant to share them. While I'm sympathetic to individual creators (and *small* companies), I believe that they have a moral responsibility to keep their work reasonably available, and to provide provisions for the release of material in the event of their deaths. Larger corporate IP owners I have less sympathy for. Either they should keep works reasonably available or they shouldn't complain about copies being made and distributed.
- -atk archive.org takedown of magazines
 
 ## The Role of Traditional Institutions
 ![That belongs in a museum!](./that_belongs_in_a_museum.png)
-Donating rare and unique items to a museum or library could be a sollution. Indeed there are plenty of rare items in several different collections, though they tend to be part of larger, more general collections (ususally general popular culture collections). This could prove problematic in the long run as institutional collections policies may dictate deaccessioning materials.[^newspapershreddingfn] The [Strong National Museum of Play's][thestrong] focus on games and play make it the most likely home for important documents.[^strongcredentials] But while it's certainly a good bet for preservation, casual scholarship is still hampered by centralization.
+Donating rare and unique items to a museum or library could be a sollution. Indeed there are plenty of rare items in several different collections, though they tend to be part of larger, more general collections (usually general popular culture collections). This could prove problematic in the long run as institutional collections policies may dictate deaccessioning materials.[^newspapershreddingfn] The [Strong National Museum of Play's][thestrong] focus on games and play make it the most likely home for important documents.[^strongcredentials] But while it's certainly a good bet for preservation, casual scholarship is still hampered by centralization.
 
 ## Conclusion
 Here's how I see the current situation:  
@@ -30,7 +31,7 @@ Yes, I am essentially advocating piracy. I'm not suggesting the wholesale copyin
 
 [^gygaxfirefn]: Take the [Ernie Gygax fire][gygaxfire] for example. While certainly a terrible event from a human perspective, historically speaking the loss is nothing less than tragic.
 [^scanningandsellingfn]: See [this thread on the Acaeum][acaeum1] for an example of how some collectors feel about this practice.
-[^newspapershreddingfn]: New York State Library was recently in the news when it [unceremoniously deacessioned a large collection of 19th-century newspapers][newspapershredding].
+[^newspapershreddingfn]: New York State Library was recently in the news when it [unceremoniously deaccessioned a large collection of 19th-century newspapers][newspapershredding].
 [^strongcredentials]: Indeed, this is where [PlaGMaDA][plagmada] deposits their physical artifacts and [Peterson has semi-permanently loaned the Dalluhn manuscript to them][dalluhnloan].
 
 [acaeum1]: https://www.acaeum.com/forum/viewtopic.php?cache=1&f=1&t=1459&p=197677&hilit=scanning#p197677
