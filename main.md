@@ -49,7 +49,7 @@ Yes, I am essentially advocating piracy. I'm not suggesting the wholesale copyin
 [bgsucat]: http://maurice.bgsu.edu/search/o=271178427
 [domesdayfound]: https://www.acaeum.com/forum/viewtopic.php?cache=1&f=10&t=3404&p=199615#p199615
 [thestrong]: http://www.museumofplay.org/
-
+[newspapershredding]: http://www.universalhub.com/2014/former-bpl-could-preside-over-shredding
 
 
 
