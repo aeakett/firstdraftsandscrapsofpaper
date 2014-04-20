@@ -19,8 +19,8 @@ The single greatest threat to our sub-cultural heritage is copyright. There is o
 ![That belongs in a museum!](./that_belongs_in_a_museum.png)
 Donating rare and unique items to a museum or library would seem to be 
 -lib/mus seem to be the answer
-Indeed there are plenty of rare items in several different collections, though they tend to be part of larger, more general collections (ususally general popular culture collections).
--libraries tend to de-accession stuff (NYPL newspapers for example)
+Indeed there are plenty of rare items in several different collections, though they tend to be part of larger, more general collections (ususally general popular culture collections). This could prove problematic in the long run as institutional collections policies may dictate deaccessioning materials.[^newspapershreddingfn]
+
 -[Strong National Museum of Play][thestrong] seems to be the best bet currently
 -certainly best bet for preservation, but casual scholarship is still hampered by centralization.
 
@@ -38,6 +38,7 @@ Yes, I am essentially advocating piracy. I'm not suggesting the wholesale copyin
 
 [^gygaxfirefn]: Take the [Ernie Gygax fire][gygaxfire] for example. While certainly a terrible event from a human perspective, historically speaking the loss is nothing less than tragic.
 [^scanningandsellingfn]: See [this thread on the Acaeum][acaeum1] for an example of how some collectors feel about this practice.
+[^newspapershreddingfn]: New York State Library was recently in the news when it [unceremoniously deacessioned a large collection of 19th-century newspapers][newspapershredding].
 
 [acaeum1]: https://www.acaeum.com/forum/viewtopic.php?cache=1&f=1&t=1459&p=197677&hilit=scanning#p197677
 [plagmada]: http://plagmada.org
