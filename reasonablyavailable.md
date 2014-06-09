@@ -13,3 +13,4 @@ Regarding Reasonable Availability
    - scan is OCR'd? >$ (amount dependant on quality of OCR)
    - bookmarks in supporting formats? >$
    - intra-document links in supporting formats? >$
+
