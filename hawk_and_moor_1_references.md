@@ -324,7 +324,7 @@
 
 [9-6] Alarums & Excursions #2. 
 
-[9-7] [40 Years of Gen Con](http://www.amazon.com/gp/product/1589780973/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1589780973&linkCode=as2&tag=pathfwiki-20), page 18. 
+[9-7] [40 Years of Gen Con](http://www.amazon.com/gp/product/1589780973/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1589780973&amp;linkCode=as2&amp;tag=pathfwiki-20), page 18. 
 
 [9-8] ENWorld Gary Gygax Q& A, Part X. Posted July 2nd, 2006. 
 
