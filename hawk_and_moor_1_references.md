@@ -311,13 +311,15 @@
 
 [8-11] - [40 Years of Gen Con](http://www.amazon.com/gp/product/1589780973/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1589780973&linkCode=as2&tag=pathfwiki-20), page 18.  
 
-[8-12] - See also The Acaeum forums, thread “Dungeon board game by David R Megar[ r] y TSR Games 1975?” 
+[8-12] - See also The Acaeum forums, thread [“Dungeon board game by David R Megar[r]y TSR Games 1975?”](https://www.acaeum.com/forum/viewtopic.php?cache=1&f=2&t=6126)  
+   <!---->
 
 [8-13] - [40 Years of Gen Con](http://www.amazon.com/gp/product/1589780973/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1589780973&linkCode=as2&tag=pathfwiki-20), page 18.  
 
 [8-14] - Blackmoor forums, The Comeback Inn. 
 
-[8-15] - ODD74 Proboard forums, “Blackmoor Dungeon’s expanded levels.”
+[8-15] - ODD74 Proboard forums, [“Blackmoor Dungeon’s expaded levels.”](http://odd74.proboards.com/thread/4653/blackmoor-dungeons-expaded-levels) **(note typo in thread's title)**  
+   <!--https://archive.org/details/blackmoor_dungeons_expaded_levels-->
 
 [9-1] - [The Crusader: The Journal of the Intrepid Adventurer, issue #13, October 2008](http://paizo.com/products/btpy8843?The-Crusader-Journal-of-the-Intrepid-Adventurer-13).  
 
@@ -372,8 +374,8 @@
 [9-21] - [Dungeon Master: The Life and Legacy of Gary Gygax](http://web.archive.org/web/20130814201549/http://www.wired.com/gaming/virtualworlds/news/2008/03/ff_gygax?currentPage=all#), Wired.com.  
    <!--https://archive.org/details/dungeon_master-the_life_and_legacy_of_gary_gygax-->
 
-[9-22] - Lord of the Green Dragons blog, posted December 14, 2009. 
-   -http://lordofthegreendragons.blogspot.ca/2009/12/castle-el-raja-key-small-partial-of.html * 
+[9-22] - [Lord of the Green Dragons blog, posted December 14, 2009](http://lordofthegreendragons.blogspot.ca/2009/12/castle-el-raja-key-small-partial-of.html).  
+   <!---https://archive.org/details/castle_el_raja_key_small_partial_of_the_introductory_historical_essay-> 
 
 [9-23] - [Dungeon Master: The Life and Legacy of Gary Gygax](http://web.archive.org/web/20130814201549/http://www.wired.com/gaming/virtualworlds/news/2008/03/ff_gygax?currentPage=all#), Wired.com.  
    <!--https://archive.org/details/dungeon_master-the_life_and_legacy_of_gary_gygax-->
