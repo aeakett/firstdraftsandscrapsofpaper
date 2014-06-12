@@ -9,6 +9,7 @@
    <!--https://archive.org/details/ridureyu.tripod_gygax_interview-->
 
 [1-5] - [ENWorld Gary Gygax Q&A, Part I. Posted September 5th, 2002](http://www.enworld.org/forum/showthread.php?22566-Q-amp-A-with-Gary-Gygax-Part-I/page13&p=349075&viewfull=1#post349075).  
+   <!--https://archive.org/details/enword_gary_gygax_qa_threads-->
 
 [1-6] - [The Crusader: The Journal of the Intrepid Adventurer, issue #2, July 2005](http://paizo.com/products/btpy8a1p?The-Crusader-Journal-of-the-Intrepid-Adventurer-2).  
 
@@ -18,6 +19,7 @@
 [1-8] - [The Crusader: The Journal of the Intrepid Adventurer, issue #2, July 2005](http://paizo.com/products/btpy8a1p?The-Crusader-Journal-of-the-Intrepid-Adventurer-2).  
 
 [1-9] - [ENWorld Gary Gygax Q&A, Part IX. Posted July 5th, 2005](http://www.enworld.org/forum/showthread.php?125997-Gary-Gygax-Q-amp-A-Part-IX/page88&p=2382103&viewfull=1#post2382103).  
+   <!--https://archive.org/details/enword_gary_gygax_qa_threads-->
 
 [1-10] - ENWorld Gary Gygax Q&A, Part X. Posted November 6th, 2007. **something wrong here**  
 
@@ -44,6 +46,7 @@
 [1-20] - [The Crusader: The Journal of the Intrepid Adventurer, issue #10, October 2008](http://paizo.com/products/btpy8a1x?The-Crusader-Journal-of-the-Intrepid-Adventurer-10).  
 
 [1-21] - [ENWorld Gary Gygax Q&A, Part IX. Posted October 14th, 2005](http://www.enworld.org/forum/showthread.php?125997-Gary-Gygax-Q-amp-A-Part-IX&p=2655019&viewfull=1#post2655019).  
+   <!--https://archive.org/details/enword_gary_gygax_qa_threads-->
 
 [1-22] - Dragonsfoot Gary Gygax Q& A, Part I. Posted March 1st, 2005. 
 
@@ -96,9 +99,9 @@
 
 [3-1] - [The Crusader: The Journal of the Intrepid Adventurer, issue #13, October 2008](http://paizo.com/products/btpy8843?The-Crusader-Journal-of-the-Intrepid-Adventurer-13).  
 
-[3-2] - Chainmail, 3rd Edition, pg. 28. 
+[3-2] - [Chainmail, 3rd Edition](https://www.acaeum.com/ddindexes/setpages/chainmail.html), pg. 28.  
 
-[3-3] - Chainmail, 3rd Edition, pg. 28. 
+[3-3] - [Chainmail, 3rd Edition](https://www.acaeum.com/ddindexes/setpages/chainmail.html), pg. 28.  
 
 [3-4] - [From the article Jack Vance and the D&D Game](http://www.dyingearth.com/files/GARY%20GYGAX%20JACK%20VANCE.pdf).  
    <!--https://archive.org/details/gary_gygax_jack_vance-->
@@ -126,17 +129,18 @@
 [4-3] - See [“Dungeons and Dragons Co-Creator Dies in St. Paul,”](http://www.mprnews.org/story/2009/04/10/arneson_obit) Arts & Culture, Amy Forliti, Associated Press, Minneapolis (AP), April 10, 2009.  
    <!--https://archive.org/details/dungeons_and_dragons_co-creator_dies_in_st_paul-->
 
-[4-4] - [The Space Gamer, issue #21](https://archive.org/stream/space-gamer-21/Space_Gamer_21#page/n3/mode/2up). 
+[4-4] - [The Space Gamer, issue #21](https://archive.org/stream/space-gamer-21/Space_Gamer_21#page/n3/mode/2up).  
 
-[4-5] - Lord of the Green Dragons blog, © Robert J. Kuntz, November 15, 2010. 
+[4-5] - [Lord of the Green Dragons blog, © Robert J. Kuntz, November 15, 2010](http://lordofthegreendragons.blogspot.ca/2010/11/dave-arnesons-love-affair-with-japanese.html).  
 
 [4-6] - [Dragon, issue #249](http://paizo.com/products/btpy72yy?Dragon-Issue-249).  
 
-[4-7] - [The Space Gamer, issue #21](https://archive.org/stream/space-gamer-21/Space_Gamer_21#page/n3/mode/2up). 
+[4-7] - [The Space Gamer, issue #21](https://archive.org/stream/space-gamer-21/Space_Gamer_21#page/n3/mode/2up).  
 
 [4-8] - I am indebted to the excellent not-for-profit Horror Incorporated Project blog , created and maintained by the worthy Michael Popham, for much of this information pertaining to Arneson’s favored movies. I strongly encourage interested readers to stop by Michael’s site , which features many amusing essays and a fantastic collection of screenshots along with the relevant movie clips.
 
-[5-1] - Shamsgrog blogspot, Q&A with Greg Svenson. 
+[5-1] - Shamsgrog blogspot, [Q&A with Greg Svenson](http://shamsgrog.blogspot.ca/2009/05/q-with-greg-svenson.html).  
+   <!--https://archive.org/details/qa_with_greg_svenson-->
 
 [5-2] - [The Ultimate Interview with Gary Gygax](http://www.thekyngdoms.com/interviews/garygygax.php), with Ciro Alessandro Sacco of dungeons.it; hosted at thekyngdoms.com.  
    <!--https://archive.org/details/the_ultimate_interview_with_gary_gygax-->
@@ -153,9 +157,9 @@
 
 [5-7] - “The Great Svenny,” a tale related by Greg Svenson, posted on the Blackmoor mailing list by Gregg Scott. 
 
-[5-8] - From the book Dave Arneson’s Blackmoor, published by Zeitgeist Games Inc., 2004. 
+[5-8] - From the book [Dave Arneson’s Blackmoor](http://www.amazon.com/gp/product/0972873821/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0972873821&linkCode=as2&tag=pathfwiki-20), published by Zeitgeist Games Inc., 2004.  
 
-[5-9] - Foreword (“Forward”) to Dungeons & Dragons, 1974. 
+[5-9] - Foreword (“Forward”) to [Dungeons & Dragons](https://www.acaeum.com/ddindexes/setpages/original.html), 1974. 
 
 [5-10] - [The First Fantasy Campaign](http://www.acaeum.com/jg/Item0037.html).  
 
@@ -169,7 +173,7 @@
 
 [5-15] - [Dragon #320](http://paizo.com/products/btpy7ec0?Dragon-Issue-320).  
 
-[5-16] - Featured in the text of Dungeons & Dragons, Supplement II: Blackmoor, 1975. 
+[5-16] - Featured in the text of [Dungeons & Dragons, Supplement II: Blackmoor](https://www.acaeum.com/ddindexes/setpages/supplements.html), 1975.  
 
 [5-17] - ODD74 Proboards forum thread, [“Blackmoor town and dungeon alignment,”](http://odd74.proboards.com/thread/4664/blackmoor-town-dungeon-alignment) reply posted on August 30, 2010.  
    <!--https://archive.org/details/blackmoor_town_and_dungeon_alignment-->
@@ -209,7 +213,8 @@
 
 [6-5] - Wargamer’s Newsletter #116. 
 
-[6-6] - By the way, Rob Kuntz would later point out one of Gary’s clever in-jokes hiding here: “Verdurmir,” as written, roughly translates to “The Jolly Green Giant.” Ho ho ho! [Lord of the Green Dragons blog, November 18, 2010.] 
+[6-6] - By the way, Rob Kuntz would later point out one of Gary’s clever in-jokes hiding here: “Verdurmir,” as written, roughly translates to “The Jolly Green Giant.” Ho ho ho! [[Lord of the Green Dragons blog, November 18, 2010](http://lordofthegreendragons.blogspot.ca/2010/11/on-etymological-sources-in-some-of-eggs.html).]  
+   <!--https://archive.org/details/on_the_etymological_sources_in_some_of_eggs_fictional_names-->
 
 [6-7] - [Dungeon Master: The Life and Legacy of Gary Gygax](http://web.archive.org/web/20130814201549/http://www.wired.com/gaming/virtualworlds/news/2008/03/ff_gygax?currentPage=all#), Wired.com.  
    <!--https://archive.org/details/dungeon_master-the_life_and_legacy_of_gary_gygax-->
@@ -329,6 +334,7 @@
 [9-7] - [40 Years of Gen Con](http://www.amazon.com/gp/product/1589780973/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1589780973&amp;linkCode=as2&amp;tag=pathfwiki-20), page 18.  
 
 [9-8] - [ENWorld Gary Gygax Q&A, Part X. Posted July 2nd, 2006](http://www.enworld.org/forum/showthread.php?161566-Gary-Gygax-Q-amp-A-Part-X&p=2922187&viewfull=1#post2922187).  
+   <!--https://archive.org/details/enword_gary_gygax_qa_threads-->
 
 [9-9] - [RPG.net Interview with Gary Gygax, May 2001](http://www.rpg.net/news+reviews/columns/lynch01may01.html).  
    <!--https://archive.org/details/rpg.net_interview_with_gary_gygax-->
@@ -341,6 +347,7 @@
 [9-12] - The Dragon #7, June 1977. 
 
 [9-13] - [ENWorld Gary Gygax Q&A, Part X. Posted June 27th, 2006](http://www.enworld.org/forum/showthread.php?161566-Gary-Gygax-Q-amp-A-Part-X&p=2913324&viewfull=1#post2913324).  
+   <!--https://archive.org/details/enword_gary_gygax_qa_threads-->
 
 [9-14] - [30 Years of Adventure: A Celebration of Dungeons & Dragons](http://www.amazon.com/gp/offer-listing/0786934980/?ie=UTF8&camp=1789&condition=new&creative=390957&keywords=30%20years%20of%20adventure&linkCode=ur2&qid=1402580682&sr=8-1&tag=pathfwiki-20).  
 
@@ -352,6 +359,7 @@
 [9-17] - The Dragon #7, June 1977. 
 
 [9-18] - [ENWorld Gary Gygax Q&A, Part X](http://www.enworld.org/forum/showthread.php?161566-Gary-Gygax-Q-amp-A-Part-X).  
+   <!--https://archive.org/details/enword_gary_gygax_qa_threads-->
 
 [9-19] - Different Worlds #3. 
 
@@ -376,12 +384,15 @@
 [9-27] - Polyhedron #1. 
 
 [9-28] - [ENWorld Gary Gygax Q&A, Part X. Posted July 2nd, 2006](http://www.enworld.org/forum/showthread.php?161566-Gary-Gygax-Q-amp-A-Part-X&p=2922187&viewfull=1#post2922187).  
+   <!--https://archive.org/details/enword_gary_gygax_qa_threads-->
 
 [9-29] - The Dragon #7. 
 
 [9-30] - [ENWorld Gary Gygax Q&A, Part XIII. Posted October 28, 2007](http://www.enworld.org/forum/showthread.php?193204-Gary-Gygax-Q-amp-A-Part-XIII&p=3857334&viewfull=1#post3857334).  
+   <!--https://archive.org/details/enword_gary_gygax_qa_threads-->
 
 [9-31] - [ENWorld Gary Gygax Q&A, Part XIII](http://www.enworld.org/forum/showthread.php?193204-Gary-Gygax-Q-amp-A-Part-XIII).  
+   <!--https://archive.org/details/enword_gary_gygax_qa_threads-->
 
 [9-32] - [Dungeon Master: The Life and Legacy of Gary Gygax](http://web.archive.org/web/20130814201549/http://www.wired.com/gaming/virtualworlds/news/2008/03/ff_gygax?currentPage=all#), Wired.com.  
    <!--https://archive.org/details/dungeon_master-the_life_and_legacy_of_gary_gygax-->
@@ -399,6 +410,7 @@
 [10-1] - Yahoo Group: Gygax Discussion List, 2004; Castle Zagyg: The Upper Works; et. al. 
 
 [10-2] - [ENWorld Gary Gygax Q&A, Part IV](http://www.enworld.org/forum/showthread.php?57832-Gary-Gygax-Q-amp-A-Part-IV).  
+   <!--https://archive.org/details/enword_gary_gygax_qa_threads-->
 
 [10-3] - Many of these details come from Gary’s account in Dragon Annuals #2 and #4, as well as To Forge a Fantasy World: Greyhawk’s Creation, Castle Zagyg, Europa 6-8 (the earliest account), various issues of Dragon magazine, and several less-detailed asides in Internet blogs and forum threads. The minor trick in determining the contents of Castle Greyhawk is in locating mentioned room descriptions; but the major trick involves a chronological understanding of all the various iterations. 
 
@@ -407,8 +419,10 @@
 [10-5] - [Europa 6-8](https://archive.org/stream/Europa_6-8-1975-04#page/n19/mode/2up), 1975.  
 
 [10-6] - [ENWorld Gary Gygax Q&A, Part IX. Posted September 15th, 2005](http://www.enworld.org/forum/showthread.php?125997-Gary-Gygax-Q-amp-A-Part-IX/page162&p=2580442&viewfull=1#post2580442).  
+   <!--https://archive.org/details/enword_gary_gygax_qa_threads-->
 
 [10-7] - [ENWorld Gary Gygax Q&A, Part IX](http://www.enworld.org/forum/showthread.php?125997-Gary-Gygax-Q-amp-A-Part-IX).  
+   <!--https://archive.org/details/enword_gary_gygax_qa_threads-->
 
 [10-8] - Dragon Annual #2. 
 
