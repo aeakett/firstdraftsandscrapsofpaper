@@ -228,7 +228,8 @@
 
 [6-11] - Editorial note in [“Dunned for a Dragon Article,”](https://archive.org/stream/Liasons_Dangereuses_70-1976-04-28#page/n9/mode/2up) by Gary Gygax, in Liaisons Dangereuses #70.  
 
-[6-12] - The Quarterofthree/ CGM Gygax interview. 
+[6-12] - [The Quarterofthree/CGM Gygax interview](http://www.quartertothree.com/game-talk/showthread.php?42778-Gary-Gygax-R-I-P/page3).  
+   <!--https://archive.org/details/cgm_interview_with_gary_gygax-->
 
 [6-13] - Wargamer’s Digest #7. 
 
@@ -242,9 +243,11 @@
 
 [6-18] - The Dragon, issue #7, June 1977. 
 
-[6-19] - The Gygax Quarterofthree/ CGM interview. 
+[6-19] - [The Quarterofthree/CGM Gygax interview](http://www.quartertothree.com/game-talk/showthread.php?42778-Gary-Gygax-R-I-P/page3).  
+   <!--https://archive.org/details/cgm_interview_with_gary_gygax-->
 
-[6-20] - The Gygax Quarterofthree/ CGM interview. 
+[6-20] - [The Quarterofthree/CGM Gygax interview](http://www.quartertothree.com/game-talk/showthread.php?42778-Gary-Gygax-R-I-P/page3).  
+   <!--https://archive.org/details/cgm_interview_with_gary_gygax-->
 
 [6-21] - ODD74 Proboards forums, [“Was Arneson’s Blackmoor Classless?”](http://odd74.proboards.com/thread/697/arnesons-blackmoor-classless)  
    <!--https://archive.org/details/was_arnesons_blackmoor_classless-->
@@ -303,7 +306,8 @@
 [8-9] - [RPG.net Interview with Gary Gygax, May 2001](http://www.rpg.net/news+reviews/columns/lynch01may01.html).  
    <!--https://archive.org/details/rpg.net_interview_with_gary_gygax-->
 
-[8-10] - Quartertothree/ CGM interview with Gary Gygax. 
+[8-10] - [The Quarterofthree/CGM Gygax interview](http://www.quartertothree.com/game-talk/showthread.php?42778-Gary-Gygax-R-I-P/page3).  
+   <!--https://archive.org/details/cgm_interview_with_gary_gygax-->
 
 [8-11] - [40 Years of Gen Con](http://www.amazon.com/gp/product/1589780973/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1589780973&linkCode=as2&tag=pathfwiki-20), page 18.  
 
@@ -377,7 +381,8 @@
 [9-24] - [RPG.net Interview with Gary Gygax, May 2001](http://www.rpg.net/news+reviews/columns/lynch01may01.html).  
    <!--https://archive.org/details/rpg.net_interview_with_gary_gygax-->
 
-[9-25] - ODD74 Proboard forums, “Lake Geneva Gaming Group?” 
+[9-25] - ODD74 Proboard forums, [“Lake Geneva Gaming Group?”](http://odd74.proboards.com/thread/4176/lake-geneva-gaming-group)  
+   <!--https://archive.org/details/lake_geneva_gaming_group-->
 
 [9-26] - Dragonsfoot Gary Gygax Q& A, Part V. Posted May 14th, 2006. 
 
@@ -401,7 +406,7 @@
    <!--https://archive.org/details/dungeon_master-the_life_and_legacy_of_gary_gygax-->
 
 [9-34] - [The Space Gamer, issue #21](https://archive.org/stream/space-gamer-21/Space_Gamer_21#page/n3/mode/2up).  
-
+**What the heck is going on here?**  
 [9-32] - Randomwizard blogspot, [“Grognard Games / Rob Kuntz Conversations.”](http://randomwizard.blogspot.ca/2013/02/grognard-games-rob-kuntz-conversations.html)  
    <!--http://archive.org/details/Rob_Kuntz-Conversations_Part_I-->
 
@@ -412,7 +417,8 @@
 [10-2] - [ENWorld Gary Gygax Q&A, Part IV](http://www.enworld.org/forum/showthread.php?57832-Gary-Gygax-Q-amp-A-Part-IV).  
    <!--https://archive.org/details/enword_gary_gygax_qa_threads-->
 
-[10-3] - Many of these details come from Gary’s account in Dragon Annuals #2 and #4, as well as To Forge a Fantasy World: Greyhawk’s Creation, Castle Zagyg, Europa 6-8 (the earliest account), various issues of Dragon magazine, and several less-detailed asides in Internet blogs and forum threads. The minor trick in determining the contents of Castle Greyhawk is in locating mentioned room descriptions; but the major trick involves a chronological understanding of all the various iterations. 
+[10-3] - Many of these details come from Gary’s account in Dragon Annuals #2 and #4, as well as [To Forge a Fantasy World: Greyhawk’s Creation](http://gygaxslegendarium.blogspot.ca/2012/04/to-forge-fantasy-world-greyhawks.html), Castle Zagyg, [Europa 6-8](https://archive.org/stream/Europa_6-8-1975-04#page/n19/mode/2up) (the earliest account), various issues of Dragon magazine, and several less-detailed asides in Internet blogs and forum threads. The minor trick in determining the contents of Castle Greyhawk is in locating mentioned room descriptions; but the major trick involves a chronological understanding of all the various iterations. 
+   <!--https://archive.org/details/to_forge_a_fantasy_world-greyhawks_creation-->
 
 [10-4] - Greyhawk Online forums post, February 13th, 2004. 
 
