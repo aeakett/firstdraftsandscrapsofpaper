@@ -89,7 +89,7 @@
 
 [2-18] - [The Crusader: The Journal of the Intrepid Adventurer, issue #13, October 2008](http://paizo.com/products/btpy8843?The-Crusader-Journal-of-the-Intrepid-Adventurer-13).  
 
-[2-19] - Inc. magazine, February 1982. 
+[2-19] - Inc. magazine, February 1982. <!--http://www.inc.com/magazine/19820201/3601.html or http://www.inc.com/magazine/19820201/8302.html-->
 
 [2-20] - The Strategic Review, issue #5, December 1975. 
 
