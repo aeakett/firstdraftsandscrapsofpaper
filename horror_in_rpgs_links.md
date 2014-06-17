@@ -2,6 +2,7 @@
 PaizoCon 2013 Horror in RPGs Seminar Links
 ==========================================
 
+<img src="img/horror_in_rpgs-paizocon_2013.jpg" style="float:right" width="199" height="150" />
 PaizoCon 2013 featured a seminar entitiled "Horror in RPGs". During that seminar, the panelists mentioned a multitude of concepts, techniques, games, people, and products. While listening to a podcast of the seminar there were a few things that I wanted to check out on my own. The podcast's show notes were unfortunatly empty. That prompted me to relisten to the seminar, noting anything that somebody might possibly want to know more about. That list is what you see below.
 
 <iframe src="https://archive.org/embed/know_direction_podcast_archive-20140220/paizocon2013special014-horror.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
