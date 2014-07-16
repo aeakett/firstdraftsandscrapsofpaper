@@ -65,10 +65,36 @@ why does every adventure path have on bad guy encouters (paizo forum thread)
 psycosis vs psyche
 star wars
 Darth vader
-
-
-
-
+"I said three years ago    the door on the left when you get to the room with the blue curtains!" -Jacobs
+                        ^-- There's something missing here... James talking around 20:20
+The Queen's Hand
+Cheliax
+Egypt/Fantasy Egypt/Osirion
+Hyperion (Dan Simmons)
+Greek mythology
+The Mummy (Brendan Fraiser)
+Second Darkness (AP)
+Wrath of the Righteous (AP)
+[Deskari](http://pathfinderwiki.com/wiki/Deskari)
+World Wound
+Inner Sea Region
+Call of Cthulhu (game)
+1890s
+Cthulhu by Gaslight
+Templars
+Dr. Moriarty
+John D. (Dee?)
+Stonehenge
+TPK
+Rise of the Runelords (AP)
+Varisia
+Serpant's Skull (AP)
+32:20 "What *if* --- comes back?"
+White Plume Mountain
+Desna
+Thassilon
+Runelords
+"Pretty much all of Thassilon and the Runelords and stuff came about because one of my player characters stuck a portable hole in a bag of holding" -Jacobs
 
 
 
