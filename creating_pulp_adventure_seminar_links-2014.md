@@ -27,7 +27,7 @@ Word War
 Smallpox (epedemic?)
 Catharsis
 super-science (as a type of story)
-Lovecraft
+H.P. Lovecraft
 The Dunwich Horror
 Spawn of Yog-Sothoth
 Shadow Over Innsmouth
@@ -56,13 +56,12 @@ Conan comics
 Erik Mona
 Jirel of Joiry
 Golden Age Superhero comic books
-Doctor Strange
+[Doctor Strange](http://marvel.wikia.com/Stephen_Strange_(Earth-616))
 Lord of the Rings (book)
 Golarion
-Dungeons & Dragons
 Midgard (campaign setting)
 why does every adventure path have on bad guy encouters (paizo forum thread)
-psycosis vs psyche
+[psychosis](https://en.wikipedia.org/wiki/Psycosis) vs. [psyche](https://en.wikipedia.org/wiki/Psyche_(psychology))
 star wars
 Darth vader
 "I said three years ago    the door on the left when you get to the room with the blue curtains!" -Jacobs
@@ -81,10 +80,10 @@ Inner Sea Region
 Call of Cthulhu (game)
 1890s
 Cthulhu by Gaslight
-Templars
-Dr. Moriarty
-John D. (Dee?)
-Stonehenge
+[Templars](https://en.wikipedia.org/wiki/Templars)
+[Moriarty](https://en.wikipedia.org/wiki/Professor_Moriarty)
+[John Dee](https://en.wikipedia.org/wiki/John_Dee)
+[Stonehenge](https://en.wikipedia.org/wiki/Stonehenge)
 TPK
 Rise of the Runelords (AP)
 Varisia
@@ -95,11 +94,27 @@ Desna
 Thassilon
 Runelords
 "Pretty much all of Thassilon and the Runelords and stuff came about because one of my player characters stuck a portable hole in a bag of holding" -Jacobs
-
-
-
-
-
+Amber (game)
+Planescape
+Valhalla
+Asgard
+viking gods
+The Paperbag Princess
+Robert E Howard
+Edgar Rice Burroughs
+John Carter (movie)
+Balantine Books
+True Detective
+Robert Chambers
+King in Yellow
+Marvel superhero movies
+Lando Calrissian
+Jacqueline Carey
+Terre d'Ange
+"I'm thinking aboout ---"  c. 51:15
+Murder's Mark
+Mark Moreland
+The Amazong Spiderman 2
 
 
 
