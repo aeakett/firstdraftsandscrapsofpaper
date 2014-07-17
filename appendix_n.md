@@ -1,23 +1,23 @@
 
 <style>
-body {font-family: Futura, "Century Gothic", CenturyGothic, AppleGothic, "Trebuchet MS", Arial, sans-serif;}
+body {font-family: Futura, "Century Gothic", CenturyGothic, AppleGothic, "Trebuchet MS", Arial, sans-serif !important;}
 h1 {
-   font-size: 133.33%;
-   font-weight: bold;
-   text-transform:uppercase;
+   font-size: 133.33% !important;
+   font-weight: bold !important;
+   text-transform:uppercase !important;
 }
 h2 {
-   font-weight: bold;
+   font-weight: bold !important;
 }
 </style>
 
 Appendix N: Inspirational and Educational Reading
--------------------------------------------------
+=================================================
 
 Inspiration for all the fantasy work I have done stems directly from the love my father showed when I was a tad, for he spent many hours telling me stories he made up as he went along, tales of cloaked old men who could grant wishes, of magic rings and enchanted swords, or wicked sorcerors and dauntless swordsmen. Then too, countless hundreds of comic books went down, and the long-gone EC ones certainly had their effect. Science fiction, fantasy, and horror movies were a big influence. In fact, all of us tend to get ample helpings of fantasy when we are very young, from fairy tales such as those written by the Brothers Grimm and Andrew Lang. This often leads to reading books of mythology, paging through bestiaries, and consultation of compilations of the myths of various lands and peoples. Upon such a base I built my interest in fantasy, being an avid reader of all science fiction and fantasy literature since 1950. The following authors were of particular inspiration to me. In some cases I cite specific works, in others, I simply recommend all of their fantasy writing to you. From such sources, as well as any other imaginative writing or screenplay you will be able to pluck kernels from which will grow the fruits of exciting campaigns. Good reading!  
 
 Inspirational Reading:
-======================
+----------------------
 
 Anderson, Poul: THREE HEARTS AND THREE LIONS; THE HIGH CRUSADE; THE BROKEN SWORD  
 Bellairs, John: THE FACE IN THE FROST  
