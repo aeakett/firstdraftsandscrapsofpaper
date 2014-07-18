@@ -81,7 +81,6 @@ Why are there so many single-NPC encounters in APs? (Paizo forum thread)](http:/
 - [Rise of the Runelords adventure path](http://pathfinderwiki.com/wiki/Rise_of_the_Runelords)  
 - [Varisia](http://pathfinderwiki.com/wiki/Varisia)  
 - [Serpent's Skull adventure path](http://pathfinderwiki.com/wiki/Serpent%27s_Skull_(adventure_path))  
-<!-- - 32:20 "What *if* --- comes back?" -->
 - [White Plume Mountain](http://www.canonfire.com/wiki/index.php?title=White_Plume_Mountain_(module))
 - [Desna](http://pathfinderwiki.com/wiki/Desna)  
 - [Thassilon](http://pathfinderwiki.com/wiki/Thassilon)  
@@ -104,7 +103,6 @@ Why are there so many single-NPC encounters in APs? (Paizo forum thread)](http:/
 - [Lando Calrissian](http://starwars.wikia.com/wiki/Lando_Calrissian)  
 - [Jacqueline Carey](https://en.wikipedia.org/wiki/Jacqueline_Carey)  
 - [Terre d'Ange](http://kushiel.wikia.com/wiki/Terre_d'Ange)  
-<!-- - "I'm thinking aboout ---"  c. 51:15 -->
 - [Murder's Mark](http://pathfinderwiki.com/wiki/Murder%27s_Mark)  
 - [Mark Moreland](http://pathfinderwiki.com/wiki/Mark_Moreland)[<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/yoda8myhead)[<img src="img/paizo-32x32.png" height=16 width="16" />](http://paizo.com/people/MarkMoreland)[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/pages/Mark-Moreland-Author/193899530621453)  
 - [The Amazing Spiderman 2](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=the%20amazing%20spider-man%202&linkCode=ur2&rh=n%3A2625373011%2Ck%3Athe%20amazing%20spider-man%202&sprefix=the%20amazing%20spider%2Cmovies-tv%2C401&tag=pathfwiki-20&url=search-alias%3Dmovies-tv&linkId=UVCLV7BC2UEBZR73)
