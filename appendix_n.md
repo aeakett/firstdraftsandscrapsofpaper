@@ -1,6 +1,6 @@
 
 <style>
-#wrapper {font-family: Futura, "Century Gothic", CenturyGothic, AppleGothic, "Trebuchet MS", Arial, sans-serif !important;}
+#wrapper, #wrapper p {font-family: Futura, "Century Gothic", CenturyGothic, AppleGothic, "Trebuchet MS", Arial, sans-serif !important;}
 h1 {
    font-size: 133.33% !important;
    font-weight: bold !important;
