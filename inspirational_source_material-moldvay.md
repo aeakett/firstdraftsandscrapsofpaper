@@ -81,7 +81,7 @@ Wagner, Karl Edward — **Bloodstone; Death Angel’s Shadow; Dark Crusade**, et
 White, Theodore H. — **The Once and Future King**  
 Zelazny, Roger — **Jack of Shadows; Lord of Light; Nine Princes in Amber**, et al.  
 
-Some additional authors of fantasy fiction are:
+Some additional authors of fantasy fiction are:  
 Beagle, Peter S.  
 Bok, Hannes  
 Cabell, James Branch  
