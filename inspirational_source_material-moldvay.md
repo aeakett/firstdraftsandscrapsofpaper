@@ -1,10 +1,11 @@
 <style>
-#wrapper {font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; !important;}
+#wrapper {font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif !important;}
 h1 {
    font-size: 133.33% !important;
    text-transform:uppercase;
 }
 h2 {
+   font-size: 100% !important;
    text-transform:uppercase;
 }
 </style>
