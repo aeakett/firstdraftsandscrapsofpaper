@@ -114,8 +114,18 @@ Terre d'Ange
 "I'm thinking aboout ---"  c. 51:15
 Murder's Mark
 Mark Moreland
-The Amazong Spiderman 2
-
+The Amazing Spiderman 2
+Peter Parker
+Gwen Stacey
+Midgard
+Grimm's Fairy Tales
+primal fears
+slavic myths
+fairy tale
+Baba Yaga
+Brandon Hodge
+Wasted West (midgard)
+brain in a jar
 
 
 
