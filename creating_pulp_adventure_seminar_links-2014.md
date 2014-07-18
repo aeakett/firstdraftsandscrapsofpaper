@@ -1,6 +1,6 @@
-
 Creating Pulp Adventure
 =======================
+Notes relating to the PaizoCon 2014 seminar "Creating Pulp Adventure"
 
 - [Paizo](http://paizo.com)  
 - [Kobold Press](http://www.koboldquarterly.com/)  
@@ -14,7 +14,7 @@ Creating Pulp Adventure
 - [Tarzan](https://en.wikipedia.org/wiki/Tarzan)  
 - [Conan](https://en.wikipedia.org/wiki/Conan_the_Barbarian)  
 - [The Shadow](https://en.wikipedia.org/wiki/The_Shadow)  
-"super-science & stories of high adventure" -Baur  
+- "super-science & stories of high adventure" -Baur  
 - [Weird Tales](https://en.wikipedia.org/wiki/Weird_Tales)  
 - [Barrier Peaks](http://www.canonfire.com/wiki/index.php?title=Expedition_to_the_Barrier_Peaks)  
 - "the two-fisted action will knock you out" -Baur  
@@ -55,15 +55,14 @@ Creating Pulp Adventure
 - [Lord of the Rings](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=lord%20of%20the%20rings&linkCode=ur2&rh=n%3A283155%2Ck%3Alord%20of%20the%20rings&tag=pathfwiki-20&url=search-alias%3Dstripbooks&linkId=4T2GZ2BO4LUGUCHN)
 - [Golarion](http://pathfinderwiki.com/wiki/Golarion)  
 - [Midgard](http://paizo.com/store/byCompany/k/koboldPress/midgardCampaignSetting)  
-- [why does every adventure path have on bad guy encouters (paizo forum thread)  
+- [
+Why are there so many single-NPC encounters in APs? (Paizo forum thread)](http://paizo.com/threads/rzs2r7wj?Why-are-there-so-many-singleNPC-encounters-in)
 - [psychosis](https://en.wikipedia.org/wiki/Psycosis) vs. [psyche](https://en.wikipedia.org/wiki/Psyche_(psychology))  
 - [Star Wars](https://en.wikipedia.org/wiki/Star_Wars)  
 - [Darth Vader](http://starwars.wikia.com/wiki/Darth_Vader#A_fateful_choice)  
-- "I said three years ago    the door on the left when you get to the room with the blue curtains!" -Jacobs
--                         ^-- There's something missing here... James talking around 20:20
-- [The Queen's Hand  
+- "I said three years ago... the door on the left when you get to the room with the blue curtains!" -Jacobs
 - [Cheliax](http://pathfinderwiki.com/wiki/Cheliax)  
-- [Egypt/Fantasy Egypt/Osirion  
+- [Egypt](https://en.wikipedia.org/wiki/Egypt)/[Fantasy Egypt](http://www.noreen-doyle.com/EgyptomaniaOrg/aef/EgyptSFF.html)/[Osirion](http://pathfinderwiki.com/wiki/Osirion)
 - [Hyperion](http://www.amazon.com/gp/product/B004G60EHS/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004G60EHS&linkCode=as2&tag=pathfwiki-20&linkId=VTPAMDDSOTWB6G2Y)
 - [Greek mythology](https://en.wikipedia.org/wiki/Greek_mythology)  
 - [The Mummy](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=the%20mummy&linkCode=ur2&rh=n%3A2625373011%2Ck%3Athe%20mummy&sprefix=the%20mumm%2Caps%2C367&tag=pathfwiki-20&url=search-alias%3Dmovies-tv&linkId=QMXK2KFXGWRIVCO6)
