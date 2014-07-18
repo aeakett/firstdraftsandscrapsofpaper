@@ -49,7 +49,7 @@ Notes relating to the PaizoCon 2014 seminar "Creating Pulp Adventure"
 - [Red Sonja](https://en.wikipedia.org/wiki/Jirel_of_Joiry)  
 - [Conan comics](https://en.wikipedia.org/wiki/Conan_(comics))  
 - [Erik Mona](http://erikmona.wordpress.com/)[<img src="img/paizo-32x32.png" height=16 width="16" />](http://paizo.com/people/ErikMona)[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/pages/Erik-Mona-Author/140667695961838)[<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/erikmona)  
-- [](https://en.wikipedia.org/wiki/Jirel_of_Joiry)  
+- [Jirel of Joiry](https://en.wikipedia.org/wiki/Jirel_of_Joiry)  
 - [Golden Age superhero comic books](https://en.wikipedia.org/wiki/Golden_Age_of_Comic_Books)  
 - [Doctor Strange](http://marvel.wikia.com/Stephen_Strange_(Earth-616))  
 - [Lord of the Rings](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=lord%20of%20the%20rings&linkCode=ur2&rh=n%3A283155%2Ck%3Alord%20of%20the%20rings&tag=pathfwiki-20&url=search-alias%3Dstripbooks&linkId=4T2GZ2BO4LUGUCHN)
