@@ -4,24 +4,16 @@ Creating Pulp Adventure
 
 - [Paizo](http://paizo.com)  
 - [Kobold Press](http://www.koboldquarterly.com/)  
-- [James Jaccobs](http://bigfootcountryblog.blogspot.com/)
-[<img src="img/paizo-32x32.png" height=16 width="16" />](http://paizo.com/people/JamesJacobs)
-[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/james.jacobs.357)  
-- [Wolfgang Baur](http://pathfinderwiki.com/wiki/Wolfgang_Baur)
-[<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/monkeyking)
-[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/pages/Wolfgang-Baur/178404008849824)  
-- [Jim Groves](http://pathfinderwiki.com/wiki/Jim_Groves)  
-[<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/)
-[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/pages/Jim-Groves-Game-Designer/1434363846828515)
+- [James Jaccobs](http://bigfootcountryblog.blogspot.com/)[<img src="img/paizo-32x32.png" height=16 width="16" />](http://paizo.com/people/JamesJacobs)[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/james.jacobs.357)  
+- [Wolfgang Baur](http://pathfinderwiki.com/wiki/Wolfgang_Baur)[<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/monkeyking)[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/pages/Wolfgang-Baur/178404008849824)  
+- [Jim Groves](http://pathfinderwiki.com/wiki/Jim_Groves)  [<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/)[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/pages/Jim-Groves-Game-Designer/1434363846828515)
 - [The Half-Dead City (first chapter of the Mummy's Mask adventure path)](http://pathfinderwiki.com/wiki/The_Half-Dead_City)  
-- [Russ Taylor](http://pathfinderwiki.com/wiki/Russ_Taylor)
-[<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/innercaine)
-[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/)
+- [Russ Taylor](http://pathfinderwiki.com/wiki/Russ_Taylor)[<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/innercaine)[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/)
 - [Numeria, Land of Fallen Stars (campaign book)](http://pathfinderwiki.com/wiki/Numeria,_Land_of_Fallen_Stars)  
 - [pulp magazines  
-- [Tarzan  
-- [Conan  
-- [Shadow  
+- [Tarzan](https://en.wikipedia.org/wiki/Tarzan)  
+- [Conan](https://en.wikipedia.org/wiki/Conan_the_Barbarian)  
+- [The Shadow](https://en.wikipedia.org/wiki/The_Shadow)  
 "super-science & stories of high adventure" -Baur  
 - [Weird Tales  
 - [barrier peaks  
@@ -35,7 +27,7 @@ Creating Pulp Adventure
 - [Smallpox (epedemic?)  
 - [catharsis](https://en.wikipedia.org/wiki/Catharsis)  
 - [super-science (as a type of story)  
-- [H.P. Lovecraft  
+- [H.P. Lovecraft](https://en.wikipedia.org/wiki/H._P._Lovecraft)
 - [The Dunwich Horror  
 - [Spawn of Yog-Sothoth  
 - [Shadow Over Innsmouth  
@@ -49,23 +41,20 @@ Creating Pulp Adventure
 - "all chocolate and nuts with basically just enough flour to hold them together" -audience member  
 - [Ming the Merciless](https://en.wikipedia.org/wiki/Ming_the_Merciless)  
 - [Flash Gordon](https://en.wikipedia.org/wiki/Flash_Gordon)  
-- [World of Darkness  
-- [Adventure! \
-- [Aberrant    \ All part of the [Trinity Universe](http://whitewolf.wikia.com/wiki/Trinity_Universe)
-- [ÆON         /
+- [World of Darkness](http://whitewolf.wikia.com/wiki/World_of_Darkness)  
+- [Adventure!](http://whitewolf.wikia.com/wiki/Adventure!)
+- [Aberrant](http://whitewolf.wikia.com/wiki/Aberrant)
+- [ÆON](http://whitewolf.wikia.com/wiki/Trinity)
 - [TORG](https://en.wikipedia.org/wiki/Torg)  
 - [The Whispering Tyrant](http://pathfinderwiki.com/wiki/Whispering_Tyrant)  
 - [Buck Rogers](https://en.wikipedia.org/wiki/Buck_Rogers)  
 - [Fellowship of the Ring](http://lotr.wikia.com/wiki/Fellowship_of_the_Ring)  
 - [Baphomet  
 - [Flash Gordon's lab assistant  
-- [Red Sonja  
-- [Conan comics  
-- [Erik Mona](http://erikmona.wordpress.com/)
-[<img src="img/paizo-32x32.png" height=16 width="16" />](http://paizo.com/people/ErikMona)
-[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/pages/Erik-Mona-Author/140667695961838)
-[<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/erikmona)  
-- [Jirel of Joiry  
+- [Red Sonja](https://en.wikipedia.org/wiki/Jirel_of_Joiry)  
+- [Conan comics](https://en.wikipedia.org/wiki/Conan_(comics))  
+- [Erik Mona](http://erikmona.wordpress.com/)[<img src="img/paizo-32x32.png" height=16 width="16" />](http://paizo.com/people/ErikMona)[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/pages/Erik-Mona-Author/140667695961838)[<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/erikmona)  
+- [](https://en.wikipedia.org/wiki/Jirel_of_Joiry)  
 - [Golden Age superhero comic books](https://en.wikipedia.org/wiki/Golden_Age_of_Comic_Books)  
 - [Doctor Strange](http://marvel.wikia.com/Stephen_Strange_(Earth-616))  
 - [Lord of the Rings (book)  
@@ -111,34 +100,29 @@ Creating Pulp Adventure
 - [Asgard](https://en.wikipedia.org/wiki/Asgard)  
 - [Viking gods](https://en.wikipedia.org/wiki/%C3%86sir)  
 - [The Paperbag Princess  
-- [Robert E Howard  
-- [Edgar Rice Burroughs  
+- [Robert E Howard](https://en.wikipedia.org/wiki/Robert_E._Howard)  
+- [Edgar Rice Burroughs](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)  
 - [John Carter (movie)  
 - [Ballantine Books](https://en.wikipedia.org/wiki/Ballantine_Books)  
 - [True Detective  
-- [Robert Chambers  
-- [King in Yellow  
+- [Robert Chambers](https://en.wikipedia.org/wiki/Robert_W._Chambers)  
+- [The King in Yellow](https://en.wikisource.org/wiki/The_King_in_Yellow)  
 - [Marvel superhero movies](http://marvel.wikia.com/Earth-199999)  
 - [Lando Calrissian](http://starwars.wikia.com/wiki/Lando_Calrissian)  
-- [Jacqueline Carey  
-- [Terre d'Ange  
+- [](https://en.wikipedia.org/wiki/Jacqueline_Carey)  
+- [Terre d'Ange](http://kushiel.wikia.com/wiki/Terre_d'Ange)  
 - "I'm thinking aboout ---"  c. 51:15
 - [Murder's Mark](http://pathfinderwiki.com/wiki/Murder%27s_Mark)  
-- [Mark Moreland](http://pathfinderwiki.com/wiki/Mark_Moreland)
-[<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/yoda8myhead)
-[<img src="img/paizo-32x32.png" height=16 width="16" />](http://paizo.com/people/MarkMoreland)
-[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/pages/Mark-Moreland-Author/193899530621453)  
+- [Mark Moreland](http://pathfinderwiki.com/wiki/Mark_Moreland)[<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/yoda8myhead)[<img src="img/paizo-32x32.png" height=16 width="16" />](http://paizo.com/people/MarkMoreland)[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/pages/Mark-Moreland-Author/193899530621453)  
 - [The Amazing Spiderman 2  
 - [Peter Parker](http://marvel.wikia.com/Peter_Parker_(Earth-616))  
 - [Gwen Stacy](http://marvel.wikia.com/Gwendolyne_Stacy_(Earth-616))  
-- [Grimm's Fairy Tales  
+- [Grimms' Fairy Tales](https://en.wikisource.org/wiki/Grimm%27s_Fairy_Tales)
 - [primal fears  
 - [Slavic myth](https://en.wikipedia.org/wiki/Slavic_mythology)  
 - [fairy tale](https://en.wikipedia.org/wiki/Fairy_tale)  
 - [Baba Yaga](https://en.wikipedia.org/wiki/Baba_yaga)  
-- [Brandon Hodge](http://www.mysteriousplanchette.com/)
-- [<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/planchettesays)
-- [<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/MysteriousPlanchette)
+- [Brandon Hodge](http://www.mysteriousplanchette.com/)[<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/planchettesays)[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/MysteriousPlanchette)
 - [Wasted West](http://paizo.com/products/btpy8x5y/discuss?Players-Guide-to-the-Wasted-West)  
 - [brain in a jar  
 
