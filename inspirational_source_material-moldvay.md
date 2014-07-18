@@ -8,7 +8,7 @@ h1 {
 h2 {
    font-size: 100% !important;
    text-transform:uppercase;
-   font-weight: normal;
+   font-weight: normal !important;
 }
 </style>
 
