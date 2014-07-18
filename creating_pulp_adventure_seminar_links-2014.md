@@ -1,6 +1,7 @@
 Creating Pulp Adventure
 =======================
-Notes relating to the PaizoCon 2014 seminar "Creating Pulp Adventure"
+<img src="img/paizocon_2014.jpg" style="float:right" width="180" height="126">
+Notes relating to the PaizoCon 2014 seminar "Creating Pulp Adventure".
 
 - [Paizo](http://paizo.com)  
 - [Kobold Press](http://www.koboldquarterly.com/)  
