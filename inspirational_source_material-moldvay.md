@@ -3,10 +3,12 @@
 h1 {
    font-size: 133.33% !important;
    text-transform:uppercase;
+   font-weight: bold;
 }
 h2 {
    font-size: 100% !important;
    text-transform:uppercase;
+   font-weight: normal;
 }
 </style>
 
