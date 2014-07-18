@@ -7,10 +7,16 @@ Creating Pulp Adventure
 - [James Jaccobs](http://bigfootcountryblog.blogspot.com/)
 [<img src="img/paizo-32x32.png" height=16 width="16" />](http://paizo.com/people/JamesJacobs)
 [<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/james.jacobs.357)  
-- [Wolfgang Baur  
+- [Wolfgang Baur](http://pathfinderwiki.com/wiki/Wolfgang_Baur)
+[<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/monkeyking)
+[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/pages/Wolfgang-Baur/178404008849824)  
 - [Jim Groves](http://pathfinderwiki.com/wiki/Jim_Groves)  
+[<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/)
+[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/pages/Jim-Groves-Game-Designer/1434363846828515)
 - [The Half-Dead City (first chapter of the Mummy's Mask adventure path)](http://pathfinderwiki.com/wiki/The_Half-Dead_City)  
-- [Russ Taylor](http://pathfinderwiki.com/wiki/Russ_Taylor)  
+- [Russ Taylor](http://pathfinderwiki.com/wiki/Russ_Taylor)
+[<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/innercaine)
+[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/)
 - [Numeria, Land of Fallen Stars (campaign book)](http://pathfinderwiki.com/wiki/Numeria,_Land_of_Fallen_Stars)  
 - [pulp magazines  
 - [Tarzan  
@@ -55,7 +61,10 @@ Creating Pulp Adventure
 - [Flash Gordon's lab assistant  
 - [Red Sonja  
 - [Conan comics  
-- [Erik Mona](http://pathfinderwiki.com/wiki/Erik_Mona)  
+- [Erik Mona](http://erikmona.wordpress.com/)
+[<img src="img/paizo-32x32.png" height=16 width="16" />](http://paizo.com/people/ErikMona)
+[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/pages/Erik-Mona-Author/140667695961838)
+[<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/erikmona)  
 - [Jirel of Joiry  
 - [Golden Age superhero comic books](https://en.wikipedia.org/wiki/Golden_Age_of_Comic_Books)  
 - [Doctor Strange](http://marvel.wikia.com/Stephen_Strange_(Earth-616))  
@@ -109,22 +118,27 @@ Creating Pulp Adventure
 - [True Detective  
 - [Robert Chambers  
 - [King in Yellow  
-- [Marvel superhero movies  
+- [Marvel superhero movies](http://marvel.wikia.com/Earth-199999)  
 - [Lando Calrissian](http://starwars.wikia.com/wiki/Lando_Calrissian)  
 - [Jacqueline Carey  
 - [Terre d'Ange  
 - "I'm thinking aboout ---"  c. 51:15
 - [Murder's Mark](http://pathfinderwiki.com/wiki/Murder%27s_Mark)  
-- [Mark Moreland](http://pathfinderwiki.com/wiki/Mark_Moreland)  
+- [Mark Moreland](http://pathfinderwiki.com/wiki/Mark_Moreland)
+[<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/yoda8myhead)
+[<img src="img/paizo-32x32.png" height=16 width="16" />](http://paizo.com/people/MarkMoreland)
+[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/pages/Mark-Moreland-Author/193899530621453)  
 - [The Amazing Spiderman 2  
-- [Peter Parker  
-- [Gwen Stacey  
+- [Peter Parker](http://marvel.wikia.com/Peter_Parker_(Earth-616))  
+- [Gwen Stacy](http://marvel.wikia.com/Gwendolyne_Stacy_(Earth-616))  
 - [Grimm's Fairy Tales  
 - [primal fears  
 - [Slavic myth](https://en.wikipedia.org/wiki/Slavic_mythology)  
 - [fairy tale](https://en.wikipedia.org/wiki/Fairy_tale)  
 - [Baba Yaga](https://en.wikipedia.org/wiki/Baba_yaga)  
-- [Brandon Hodge](http://pathfinderwiki.com/wiki/Brandon_Hodge)  
+- [Brandon Hodge](http://www.mysteriousplanchette.com/)
+- [<img src="img/twitter-t-32x32.png" height=16 width="16" />](https://twitter.com/planchettesays)
+- [<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/MysteriousPlanchette)
 - [Wasted West](http://paizo.com/products/btpy8x5y/discuss?Players-Guide-to-the-Wasted-West)  
 - [brain in a jar  
 
