@@ -1,5 +1,5 @@
 <style>
-#wrapper {font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif !important;}
+#wrapper p {font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif !important;}
 h1 {
    font-size: 133.33% !important;
    text-transform:uppercase;
