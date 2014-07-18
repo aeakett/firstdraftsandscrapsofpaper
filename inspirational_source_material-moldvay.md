@@ -14,6 +14,7 @@ h2 {
 
 Inspirational Source Material
 =============================
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;">
 A good D&D campaign is imaginative and creative. Sometimes a little research is useful to improve a dungeon, flesh out a scenario, and provide inspiration for a campaign. Books on folklore, mythology, fairy tales, bestiaries, and knightly legends can often help the DM fill in important details of a campaign, but fictional tales and fantasy novels usually provide the best sources of inspiration. The following list includes some books which might prove useful. A title list followed by “et al.” means that the author has written more fantasy titles than those which can be listed in the limited space available. Note that some books listed as “non-fiction" are about myths or legends, but are labeled as non-fiction because they are not on the fiction shelves of the library or bookstore.  
 
 Fiction: Young Adult Fantasy
@@ -82,6 +83,7 @@ White, Theodore H. — **The Once and Future King**
 Zelazny, Roger — **Jack of Shadows; Lord of Light; Nine Princes in Amber**, et al.  
 
 Some additional authors of fantasy fiction are:
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;">
 Beagle, Peter S.  
 Bok, Hannes  
 Cabell, James Branch  
@@ -104,7 +106,7 @@ Saberhagen, Fred
 Walton, Evangeline  
 Wellman, Manly Wade  
 Williamson, Jack  
-
+</div>
 
 Short Story Collections:
 ------------------------
@@ -116,3 +118,4 @@ Non-Fiction
 Borges, Jorge Luis — **The Book of Imaginary Beings**  
 Bullfinch, Thomas — **Bullfinch's Mythology: The Age of Fable, The Age of Chivalry**  
 **Funk and Wagnalls Standard Dictionary of Folklore, Mythology, and Legend**  
+</div>
