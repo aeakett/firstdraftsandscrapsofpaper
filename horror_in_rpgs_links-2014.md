@@ -84,7 +84,7 @@ Last year I did up a set of notes for the 2013 PaizoCon seminar "Horror in RPGs"
 - [Call of Cthulhu](http://en.wikipedia.org/wiki/Call_of_Cthulhu_(role-playing_game))
 - [Auchtung Cthulhu](http://www.modiphius.com/achtung-cthulhu.html)
 - [Indie Press Revolution](http://www.indiepressrevolution.com/)
-- [Abberation... actually called "Abnormal"] (http://www.indiepressrevolution.com/xcart/product.php?productid=18837)
+- [Abberation... actually called "Abnormal"](http://www.indiepressrevolution.com/xcart/product.php?productid=18837)
 - [Carolina Death Crawl](http://www.bullypulpitgames.com/games/carolina-death-crawl/)
 - [Fiasco](http://www.bullypulpitgames.com/games/fiasco/)
 - [Odysseus](http://en.wikipedia.org/wiki/Odysseus)
