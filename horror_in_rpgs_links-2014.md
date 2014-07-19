@@ -1,5 +1,7 @@
-Horror in RPGs
-==============
+Horror in RPGs - 2014
+=====================
+<img src="img/paizocon_2014.jpg" style="float:right" width="180" height="126">
+Last year I did up a set of notes for the 2013 PaizoCon seminar "Horror in RPGs". This year, I was fortunate enough to attend the seminar in person and take the following notes.
 
 - [James Jaccobs](http://bigfootcountryblog.blogspot.com/)
 [<img src="img/paizo-32x32.png" height=16 width="16" />](http://paizo.com/people/JamesJacobs)
@@ -82,7 +84,7 @@ Horror in RPGs
 - [Call of Cthulhu](http://en.wikipedia.org/wiki/Call_of_Cthulhu_(role-playing_game))
 - [Auchtung Cthulhu](http://www.modiphius.com/achtung-cthulhu.html)
 - [Indie Press Revolution](http://www.indiepressrevolution.com/)
-- Abberation (IPR game) (maybe "Abnormal"? http://www.indiepressrevolution.com/xcart/product.php?productid=18837)
+- [Abberation... actually called "Abnormal"] (http://www.indiepressrevolution.com/xcart/product.php?productid=18837)
 - [Carolina Death Crawl](http://www.bullypulpitgames.com/games/carolina-death-crawl/)
 - [Fiasco](http://www.bullypulpitgames.com/games/fiasco/)
 - [Odysseus](http://en.wikipedia.org/wiki/Odysseus)
