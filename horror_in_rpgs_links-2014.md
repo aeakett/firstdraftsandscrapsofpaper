@@ -3,6 +3,8 @@ Horror in RPGs - 2014
 <img src="img/paizocon_2014.jpg" style="float:right" width="180" height="126">
 Last year I did up [a set of notes](horror_in_rpgs_links.htm) for the 2013 PaizoCon seminar "[Horror in RPGs](http://www.youtube.com/watch?v=yAfQnBD7_4w)". This year, I was fortunate enough to attend the seminar in person and take the following notes.
 
+<iframe src="https://archive.org/embed/know_direction_podcast_archive-20140220/PaizoCon2014-011-horror.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 - [James Jacobs](http://bigfootcountryblog.blogspot.com/)
 [<img src="img/paizo-32x32.png" height=16 width="16" />](http://paizo.com/people/JamesJacobs)
 [<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/james.jacobs.357)
