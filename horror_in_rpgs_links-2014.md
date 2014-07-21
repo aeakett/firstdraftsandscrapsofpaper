@@ -72,7 +72,6 @@ Last year I did up a set of notes for the 2013 PaizoCon seminar "Horror in RPGs"
 - [Edogawa Ranpo](http://en.wikipedia.org/wiki/Edogawa_Ranpo)
 - [Edgar Allen Poe](http://en.wikipedia.org/wiki/Edgar_Allan_Poe)
 - [The Human Chair](http://books.google.com/books?id=-8l8G2PfKCAC&pg=PA1&source=gbs_toc_r&cad=4#v=onepage&q&f=false)
-- "safety net"
 - [Martyrs](http://www.imdb.com/title/tt1029234/?ref_=fn_al_tt_1)
 - [Cannibal Holocaust](http://www.imdb.com/title/tt0078935/?ref_=fn_al_tt_1)
 - [Lillian Cohen-Moore](http://www.lilliancohenmoore.com/)
@@ -87,14 +86,21 @@ Last year I did up a set of notes for the 2013 PaizoCon seminar "Horror in RPGs"
 - "Dread cheats" -Macklin
 - [Murderous Ghosts](http://theunstore.com/index.php/unstore/game/128)
 - [Call of Cthulhu](http://en.wikipedia.org/wiki/Call_of_Cthulhu_(role-playing_game))
+- FATE
+- Modipheus
 - [Auchtung Cthulhu](http://www.modiphius.com/achtung-cthulhu.html)
+- "This is villanous horrific alien magic... of course it just works" -Macklin
 - [Indie Press Revolution](http://www.indiepressrevolution.com/)
 - [Abberation... actually called "Abnormal"](http://www.indiepressrevolution.com/xcart/product.php?productid=18837)
 - [Carolina Death Crawl](http://www.bullypulpitgames.com/games/carolina-death-crawl/)
 - [Fiasco](http://www.bullypulpitgames.com/games/fiasco/)
+- "For certain values of woot woot" -Macklin
+- [DriveThruCards](http://www.drivethrucards.com/)
 - [Odysseus](http://en.wikipedia.org/wiki/Odysseus)
+- [Bully Pulpit Games](www.bullypulpitgames.com)
 - [The Shab-al-Hiri Roach](http://www.bullypulpitgames.com/games/roach/)
-- unofficial unknown armies website that Ryan gives the URL for
+- "One person brings a shovel, one person brings a bucket, and the other person brings anything he wants. And whoever fills the bucket first wins." -Jacobs
+- [Unofficial Unknown Armies website](http://ua.johntynes.com/)
 - slow build
 - [phobias](http://en.wikipedia.org/wiki/List_of_phobias)
 - [music in games/mood music](http://www.reddit.com/r/rpg/comments/19jcid/the_ultimate_rpg_playlist_music_for_every_occasion/)
