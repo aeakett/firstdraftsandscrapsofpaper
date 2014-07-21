@@ -3,7 +3,7 @@ Horror in RPGs - 2014
 <img src="img/paizocon_2014.jpg" style="float:right" width="180" height="126">
 Last year I did up a set of notes for the 2013 PaizoCon seminar "Horror in RPGs". This year, I was fortunate enough to attend the seminar in person and take the following notes.
 
-- [James Jaccobs](http://bigfootcountryblog.blogspot.com/)
+- [James Jacobs](http://bigfootcountryblog.blogspot.com/)
 [<img src="img/paizo-32x32.png" height=16 width="16" />](http://paizo.com/people/JamesJacobs)
 [<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/james.jacobs.357)
 
@@ -32,7 +32,9 @@ Last year I did up a set of notes for the 2013 PaizoCon seminar "Horror in RPGs"
 - [body horror](http://en.wikipedia.org/wiki/Body_horror)
 - [David Cronenberg](http://en.wikipedia.org/wiki/David_Cronenberg)
 - [The Shadow Over Innsmouth](http://en.wikisource.org/wiki/The_Shadow_Over_Innsmouth)
+- [Harry Connolly](http://www.harryjconnolly.com/)
 - [Twenty Palaces series](http://www.amazon.com/s/?_encoding=UTF8&camp=1789&creative=390957&field-keywords=harry%20connolly%2020%20palaces&linkCode=ur2&tag=pathfwiki-20&url=search-alias%3Daps&linkId=3DAWL76KXVUZMZJF)
+- [Kenneth Hite](https://en.wikipedia.org/wiki/Kenneth_Hite)
 - [GURPS Horror](http://www.sjgames.com/gurps/books/Horror/)
 - [victorian sexuality](http://historyofsexuality.umwblogs.org/pre-20th-century/victorian-era-2/)
 - [fear of the dark](http://en.wikipedia.org/wiki/Fear_of_the_dark)
@@ -43,15 +45,18 @@ Last year I did up a set of notes for the 2013 PaizoCon seminar "Horror in RPGs"
 - [Frankenstein](http://en.wikisource.org/wiki/Special:Search/Frankenstein)
 - [Salem's Lot](http://www.amazon.com/gp/product/B0019LV31E/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0019LV31E&linkCode=as2&tag=pathfwiki-20&linkId=S2JZ4KNSIUOVJP4O)
 - [Amazon](http://www.amazon.com/?_encoding=UTF8&camp=1789&creative=390957&linkCode=ur2&tag=pathfwiki-20&linkId=3NQP7PLIBZQAJITD)
-- "Robots deciding what I should read"... reccomendations
+- "I like robots deciding what I want read" -Jacobs
 - [We Live Inside You](http://www.amazon.com/gp/product/B006N0L708/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B006N0L708&linkCode=as2&tag=pathfwiki-20&linkId=4TQAGVNWRP34LZZV)
 - [Netflix](https://www.netflix.com/)
 - [The House of the Devil](http://www.imdb.com/title/tt1172994/?ref_=nv_sr_1)
 - [Unknown Armies](http://ua.johntynes.com/)
+- "Unknown Armies is the best book ever made" -Macklin
+- [Tim Powers]
 - [Last Call](http://www.amazon.com/gp/product/B0099QYGOC/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0099QYGOC&linkCode=as2&tag=pathfwiki-20&linkId=CWUCD4SHC6JWHWPL)
 - [biohorror](http://www.monsterzine.com/200104/biohorror.php)
 - [CDC Twitter](https://twitter.com/CDCgov)
 - [The X-Files](http://www.imdb.com/title/tt0106179/)
+- [agency]
 - [survival horror](http://en.wikipedia.org/wiki/Survival_horror)
 - [action horror](http://en.wikipedia.org/wiki/Category:Action_horror_films)
 - [CDC](http://www.cdc.gov/)
