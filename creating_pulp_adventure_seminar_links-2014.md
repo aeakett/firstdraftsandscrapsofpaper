@@ -2,7 +2,7 @@ Creating Pulp Adventure
 =======================
 <img src="img/paizocon_2014.jpg" style="float:right" width="180" height="126">
 Notes relating to the PaizoCon 2014 seminar "Creating Pulp Adventure".
-
+<iframe src="https://archive.org/embed/private_sanctuary_podcast_archive-20140218/PaizoCon2014-005-creatingpulpadventure.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
 - [Paizo](http://paizo.com)  
 - [Kobold Press](http://www.koboldquarterly.com/)  
 - [James Jaccobs](http://bigfootcountryblog.blogspot.com/)[<img src="img/paizo-32x32.png" height=16 width="16" />](http://paizo.com/people/JamesJacobs)[<img src="img/facebook-32x32.png" height=16 width="16" />](https://www.facebook.com/james.jacobs.357)  
