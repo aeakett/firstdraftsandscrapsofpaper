@@ -13,9 +13,9 @@ h1 {
 Appendix E: Inspirational Reading
 =================================
 
-*Inspiration for all of the fantasy work I have done stems directly from the love my father showed when I was a lad, for he spent many hours telling me stories he made up as he went along, talkes if cloaked old men who could grant wishes, of magic rings and enchanted swords, or wicked sorcerers and dauntless swordsmen...)  
+*Inspiration for all of the fantasy work I have done stems directly from the love my father showed when I was a lad, for he spent many hours telling me stories he made up as he went along, talkes if cloaked old men who could grant wishes, of magic rings and enchanted swords, or wicked sorcerers and dauntless swordsmen...*  
 *...All of us tend to get ample helpings of fantasy when we are very young, from fairy tales such as those written by the Brothers Grimm and Andrew Lang. This often leads to reading books of mythology, paging through bestiaries, and consultation of compilations of the myths of various lands and peoples. Upon such a base I built my interest in fantasy, being an avid reader of all science fiction and fantasy literature since 1950. The following authors were of particular inspiration to me.*  
-<span style="text-align: right;">---*E. Gary Gygax, *Dungeon Master's Guide* (1979)*</span>  
+<span style="text-align: right;">---*E. Gary Gygax,* Dungeon Master's Guide *(1979)*</span>  
 
 A great deal of fantasy literature has been published since the co-creator of Dungeons & Dragons wrote those words, including breakthrough works set in the shared worlds of D&D. The following list includes Gary's original list and some additional works that have inspired the game's designers int the years since.  
 
