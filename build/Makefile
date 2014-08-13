@@ -5,7 +5,12 @@
 #	multimarkdown ../.md >> ../.htm
 #	cat footer.htm >> ../.htm
 
-rebuild: appendix_e appendix_n inspirational_source_material-moldvay horror_in_rpgs_links horror_in_rpgs_links-2014 creating_pulp_adventure_seminar_links-2014
+rebuild: appendix_e appendix_n inspirational_source_material-moldvay horror_in_rpgs_links horror_in_rpgs_links-2014 creating_pulp_adventure_seminar_links-2014 gmg_appendix
+
+gmg_appendix: ../gmg_appendix.md
+	cat header.htm > ../gmg_appendix.htm
+	multimarkdown ../gmg_appendix.md >> ../gmg_appendix.htm
+	cat footer.htm >> ../gmg_appendix.htm
 
 appendix_e: ../appendix_e.md
 	cat header.htm > ../appendix_e.htm
