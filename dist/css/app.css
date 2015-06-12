@@ -330,8 +330,7 @@ table tr:nth-child(even), table td:nth-child(even) {
     text-decoration: underline; }
 
   body {
-    height: 100% !important;
-    padding: 20px !important; }
+    height: 100% !important; }
 
   #wrapper {
     background: transparent;
@@ -343,6 +342,11 @@ table tr:nth-child(even), table td:nth-child(even) {
     max-width: 100% !important;
     margin: 10px;
     padding: 10px; } }
+/* Stuff not inherited from Marked */
+.top-bar .title-area .name p {
+  color: #fff;
+  padding-left: 1em; }
+
 meta.foundation-version {
   font-family: "/5.5.1/"; }
 

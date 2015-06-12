@@ -331,7 +331,6 @@ background-color:rgba(0,0,0,0.06);
 
    body {
    height:100%!important;
-   padding:20px!important;
    }
 
    #wrapper {
@@ -345,4 +344,14 @@ background-color:rgba(0,0,0,0.06);
    margin:10px;
    padding:10px;
    }
+}
+
+
+
+
+
+/* Stuff not inherited from Marked */
+.top-bar .title-area .name p {
+   color: #fff;
+   padding-left: 1em;
 }
