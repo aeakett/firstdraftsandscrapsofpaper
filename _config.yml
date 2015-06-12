@@ -1,0 +1,6 @@
+# Site settings
+title: First Drafts and Scraps of Paper
+baseurl: "/firstdraftsandscrapsofpaper" # the subpath of your site, e.g. /blog/
+url: "http://eakett.ca" # the base hostname & protocol for your site
+destination: dist
+
