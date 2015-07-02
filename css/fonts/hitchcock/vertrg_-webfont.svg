@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata></metadata>
+<defs>
+<font id="vertigoregular" horiz-adv-x="1024" >
+<font-face units-per-em="2048" ascent="1638" descent="-410" />
+<missing-glyph horiz-adv-x="563" />
+<glyph horiz-adv-x="0" />
+<glyph unicode="&#xd;" horiz-adv-x="563" />
+<glyph unicode=" "  horiz-adv-x="563" />
+<glyph unicode="&#x09;" horiz-adv-x="563" />
+<glyph unicode="&#xa0;" horiz-adv-x="563" />
+<glyph unicode="*" horiz-adv-x="1245" d="M0 794l367 -106l-290 -336l203 -176l317 382l314 -336l159 179l-278 263l362 142l-86 237l-372 -152l-5 454l-263 24l-3 -482l-360 123z" />
+<glyph unicode="-" d="M0 678l934 -4l-2 193l-932 7v-196z" />
+<glyph unicode="&#xad;" d="M0 678l934 -4l-2 193l-932 7v-196z" />
+<glyph unicode="&#x2000;" horiz-adv-x="840" />
+<glyph unicode="&#x2001;" horiz-adv-x="1681" />
+<glyph unicode="&#x2002;" horiz-adv-x="840" />
+<glyph unicode="&#x2003;" horiz-adv-x="1681" />
+<glyph unicode="&#x2004;" horiz-adv-x="560" />
+<glyph unicode="&#x2005;" horiz-adv-x="420" />
+<glyph unicode="&#x2006;" horiz-adv-x="280" />
+<glyph unicode="&#x2007;" horiz-adv-x="280" />
+<glyph unicode="&#x2008;" horiz-adv-x="210" />
+<glyph unicode="&#x2009;" horiz-adv-x="336" />
+<glyph unicode="&#x200a;" horiz-adv-x="93" />
+<glyph unicode="&#x2010;" d="M0 678l934 -4l-2 193l-932 7v-196z" />
+<glyph unicode="&#x2011;" d="M0 678l934 -4l-2 193l-932 7v-196z" />
+<glyph unicode="&#x2012;" d="M0 678l934 -4l-2 193l-932 7v-196z" />
+<glyph unicode="&#x2013;" horiz-adv-x="1114" d="M0 678l1024 -4l-2 193l-1022 7v-196z" />
+<glyph unicode="&#x2014;" horiz-adv-x="2138" d="M0 678l2048 -4l-4 193l-2044 7v-196z" />
+<glyph unicode="&#x202f;" horiz-adv-x="336" />
+<glyph unicode="&#x205f;" horiz-adv-x="420" />
+<glyph unicode="&#x25fc;" horiz-adv-x="1681" d="M0 0v1681h1681v-1681h-1681z" />
+</font>
+</defs></svg> 
