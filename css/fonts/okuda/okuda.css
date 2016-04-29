@@ -2,12 +2,8 @@
 
 @font-face {
     font-family: 'okuda';
-    src: url('okuda-webfont.eot');
-    src: url('okuda-webfont.eot?#iefix') format('embedded-opentype'),
-         url('okuda-webfont.woff2') format('woff2'),
-         url('okuda-webfont.woff') format('woff'),
-         url('okuda-webfont.ttf') format('truetype'),
-         url('okuda-webfont.svg#okudaregular') format('svg');
+    src: url('okuda-webfont.woff2') format('woff2'),
+         url('okuda-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
