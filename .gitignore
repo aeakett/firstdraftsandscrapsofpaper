@@ -1,3 +1,4 @@
 dist/
 .sass-cache
+pf_compact_stat_blocks
 *.DS_Store

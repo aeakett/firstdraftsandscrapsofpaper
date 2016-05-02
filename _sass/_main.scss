@@ -355,3 +355,30 @@ background-color:rgba(0,0,0,0.06);
    color: #fff;
    padding-left: 1em;
 }
+
+body.compact_stat {
+   background: url("../img/wood.jpg");
+   .content {
+      background: url("../img/graph_paper.jpg");
+   }
+}
+
+.example {
+   background: #fff;
+   -webkit-box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.75);
+   -moz-box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.75);
+   box-shadow: 0px 0px 5px 2px rgba(0,0,0,0.75);
+   padding: 1em;
+}
+
+.legalJazz {
+   margin-top: 1em !important;
+   padding-top: 20px;
+   background-color: #fff;
+   div p {
+      font-size: 75%;
+      line-height: 1.6*.75;
+   }
+}
+
+.symbol{font-family: "Segoe UI Symbol",Symbola;} 
